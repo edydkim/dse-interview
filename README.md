@@ -13,7 +13,9 @@ Please note, that anything you build as part of this assignment is entirely owne
 
 Please approach both parts of the exercise as if you are working in a real production environment. Do not hesitate to ask any questions about the exercise, and please document any assumptions and decisions you make, and any shortcuts you take (for example, due to time constraints) in the process.
 
-Please share the code, and documents you create or are going to present as part of this project in some public place (GitHub, Gitlab, Google Drive, BitBucket, etc… are all acceptable)
+Please share the code, and documents you create or are going to present as part of this project in some public place (GitHub, Gitlab, Google Drive, BitBucket, etc… are all acceptable).
+
+**Please make sure to include ALL materials you've produced when you send your exercise in. We evaluate you before the demonstrations on those materials.**
 
 We might store/archive your solution and use it internally for discussion and evaluation.
 
@@ -44,4 +46,5 @@ A few guidelines for this part:
 * Beautiful visualizations are great but descriptive summary tables are also great.
 * Your exploration of the data does not have to be strictly about credit risk or even finance. If you find something interesting, we’d like to know about it.
 
+## FAQ
 
