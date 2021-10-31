@@ -1,0 +1,7 @@
+CREATE VIEW personal_information AS
+SELECT age, number_of_dependents, monthly_income, debt_ratio, revolving_utilization_of_unsecured_lines
+FROM dse.public.credit_score;
+
+CREATE VIEW credit_information AS
+SELECT serious_dlqin2yrs, number_of_open_credit_lines_and_loans, number_of_time30_59days_past_due_not_worse, number_of_time60_89days_past_due_not_worse, number_of_times90days_late, number_real_estate_loans_or_lines
+FROM dse.public.credit_score;
