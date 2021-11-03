@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Data Science Engineering Pages
 
-You can use the [editor on GitHub](https://github.com/edydkim/dse-interview/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The Data Science Engineer is placed between Data Science and Data Engineer so that it needs to be familiar with data engineering such as *ETL* and *DWH*, plus presenting data schema and shape/distribution including some of *ML/DL*.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Supposing a service running on a platform, ingesting raw data into RDMS with preprocesing should be considered as ragular batch in scheduler.
 
-### Markdown
+This repository represents a ***solution [Here](https://github.com/edydkim/dse-interview/)*** stated above as the interview assignment for a Data Science Engineer whick I had experienced.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/edydkim/dse-interview/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+(Thanks to Paidy Co., Ltd for a good assignment)
